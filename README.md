@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:
      Despite most software developers having earned a bachelor`s degree or higher, a high percentage have admitted to being self-taught.
 
-[My portfolio]:(https://akhilchaudhary.in/) 
+[My portfolio]:https://akhilchaudhary.in/

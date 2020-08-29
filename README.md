@@ -1,7 +1,5 @@
 ![alt text](hi.png "Hi.")
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on AR technology.
 - 🌱 I’m currently learning Unity.
 - 🤔 I’m looking for help with 3D models.

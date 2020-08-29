@@ -1,4 +1,4 @@
-![alt text](hi.png "Hi.")
+![alt text](hi.png)
 
 - 🔭 I’m currently working on AR technology.
 - 🌱 I’m currently learning Unity.

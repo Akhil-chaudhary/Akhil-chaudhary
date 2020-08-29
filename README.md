@@ -1,4 +1,4 @@
-![alt text](hi.png)
+![alt text](https://imgbb.com/"><img src="https://i.ibb.co/xCqVJGk/hi.png)
 
 - 🔭 I’m currently working on AR technology.
 - 🌱 I’m currently learning Unity.

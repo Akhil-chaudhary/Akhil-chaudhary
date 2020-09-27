@@ -9,7 +9,6 @@
      Despite most software developers having earned a bachelor`s degree or higher, a high percentage have admitted to being self-taught.
 
 [akhilchaudhary.in]:https://akhilchaudhary.in/
-<!---https://image.flaticon.com/icons/png/512/117/117965.png-->
 
 
 
@@ -36,7 +35,7 @@ I code for FUN in any language including
 
 
 
-### Connect with me here:  
+### Connect with me here :  
 
 
 <a href="https://www.linkedin.com/in/akhil-chaudhary-0478a1187/">

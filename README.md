@@ -45,7 +45,7 @@ I code for FUN in any language including
     <img align="left" alt="Akhil Chaudhary | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a>  -->
 
-  <a href="https://www.instagram.com/akhilchaudhary.js/">
+  <a href="https://www.instagram.com/laggingexistence/">
     <img align="left" alt="vanshikaaaaa_ | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
 
